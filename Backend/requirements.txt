@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+altair
+beautifulsoup4
+streamlit_echarts
+matplotlib
