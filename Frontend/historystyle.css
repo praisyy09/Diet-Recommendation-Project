@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e8f5e9; /* Light Green */
+}
+
+header {
+    background-color: #81c784; /* Light Green */
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+header h1 {
+    margin: 0;
+}
+h2 {
+	align-items: center;
+}
+
+header p {
+    margin: 5px 0;
+}
+
+section#description {
+    text-align: center;
+    margin: 20px;
+}
+
+#meal-plans {
+	align-items: center;
+	text-align: center;
+}
+	
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    background-color: #f1f8e9; /* Lighter Green */
+    text-align: center;
+    margin: 0;
+    position: sticky;
+    top: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0;
+}
+
+nav a {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #4caf50; /* Dark Green */
+}
+
+nav a:hover {
+    background-color: #c8e6c9; /* Lighter Dark Green */
+}
+
+section {
+    margin: 20px;
+    background-color: #ffffff; /* White */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	align-items: center;
+}
+
+h2 {
+    color: #4caf50; /* Dark Green */
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+footer {
+    background-color: #81c784; /* Light Green */
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
